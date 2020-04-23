@@ -48,7 +48,7 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 - [CoVID19 Live Stats](https://github.com/Tele-Bots/CovidBot)
 - [covid19indiatracker_bot](https://github.com/cibinjoseph/covid19indiatracker_bot)
 - [INDIA COVID-19 Google Map TRACKER](https://goo.gl/maps/U32Ex1gWQxmc6Aot8)
-
+- [COVID-19 India](https://github.com/chaha0s/covid19bot)
 
 ## Quick Links
 
